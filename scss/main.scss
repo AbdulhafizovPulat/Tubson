@@ -1,0 +1,16 @@
+.form {
+  &__enter {
+    border: 2px solid cyan;
+    border-radius: 15px;
+    background-color: whitesmoke;
+  }
+}
+.dangerText {
+  color: tomato;
+}
+.success {
+  color: forestgreen;
+}
+.failed {
+  color: crimson;
+}
